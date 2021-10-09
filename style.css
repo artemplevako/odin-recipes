@@ -1,0 +1,19 @@
+* {
+  text-align: center;
+  background-color: lightgreen;
+  font-family: Verdana, sans-serif;
+}
+
+li {
+  text-align: left;
+  font-size: 13px;
+}
+
+h1 {
+  font-size: 30px;
+}
+
+img {
+  height: auto;
+  width: 400px;
+}
